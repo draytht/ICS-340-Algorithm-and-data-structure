@@ -1,0 +1,39 @@
+Yields output:
+
+Depth 1:
+Den
+
+Depth 667:
+DenDal
+
+Depth 697:
+DenMpl
+
+Depth 812:
+DenLA
+
+Depth 928:
+DenChi
+
+Depth 957:
+DenSF
+
+Depth 1033:
+DenSea
+
+Depth 1051:
+DenMplChi
+
+Depth 1125:
+DenLASF
+
+Depth 1270:
+DenSFLA
+
+Depth 1282:
+DenChiMpl
+
+Depth 1392:
+DenDalAtl
+
+Path found: DenDalAtl, length = 1392
